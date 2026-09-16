@@ -1,0 +1,4 @@
+# mongo
+database_name: "event_driver"
+stream_collection: stream_data
+batch_collection: batch_data
